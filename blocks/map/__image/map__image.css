@@ -1,0 +1,6 @@
+.map__image {
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  z-index: 1;
+}

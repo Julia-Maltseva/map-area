@@ -1,0 +1,13 @@
+.map__btn {
+  z-index: 2;
+  position: absolute;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: none;
+  width: 41px;
+  height: 41px;
+  color: #fff;
+  display: block;
+}
